@@ -1,0 +1,19 @@
+#Image {
+    border: 5px white solid;
+    height: 500px;
+    width: 500px;
+}
+#BackG {
+    float: left;
+    width: 600px;
+}
+#pepper {
+    background-color: black;
+    color: red;
+}
+#btnAlert {
+    display: block;
+}
+#pepper {
+    text-align: center;
+}
