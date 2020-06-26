@@ -10,10 +10,18 @@
 #pepper {
     background-color: black;
     color: red;
+    text-align: center;
 }
 #btnAlert {
     display: block;
 }
-#pepper {
-    text-align: center;
+#Inventory {
+    float: right;
+    border: 5px black solid;
+    font-size: 30px;
+}
+#status {
+    float: left;
+    height: 500px;
+    width: 500px;
 }
